@@ -21,6 +21,7 @@ class Test{
         num[1] = 2;
         num[2] = 8;
         num[3] = 7;
+		
         num[4] = 5;
         num[5] = 9;
         num[6] = 3;
