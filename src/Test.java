@@ -15,9 +15,9 @@ class Test{
 
         char[] carray = {'R','a','j'};     // initialized array
 
-        int[] num = new int[9];             // defining length of array
+        int[] num = new int[9];             // defining array with length
 
-        num[0] = 10;
+        num[0] = 10;                           // insterting values in array
         num[1] = 2;
         num[2] = 8;
         num[3] = 7;
@@ -28,8 +28,13 @@ class Test{
         num[7] = 4;
         num[8] = 1;
 
+        System.out.println(num[7]);                 //printing value at index 7
 
-        System.out.println(num[7]);
+
+        // defininng array with values
+
+        int[] newArray = {10,20,30,43,65};
+
 
         String str = " Raj is a man  man";
 
