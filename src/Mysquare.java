@@ -5,6 +5,7 @@ public class Mysquare {
 
     }
       static int  square(int a){
+
         return a*a;
       }
 
