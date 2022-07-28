@@ -7,7 +7,9 @@ public static void main(String args[]){
  }
 
  static int square(int a){
+
 	return a * a;
+
  }
 
 

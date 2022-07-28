@@ -8,6 +8,7 @@ public class MyArray {
            num[3]=6;
            num[4]=8;
            System.out.println(num[3]);
+           System.out.println(num[1]);
            System.out.println(num[5]);
         }
 
